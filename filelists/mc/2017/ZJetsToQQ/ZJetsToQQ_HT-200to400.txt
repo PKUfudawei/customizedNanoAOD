@@ -156,8 +156,8 @@ root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/ZJetsToQQ_HT-
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/ZJetsToQQ_HT-200to400_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/633FDF0A-D2F1-8C4F-8580-E785173DF15C.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/ZJetsToQQ_HT-200to400_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/63AE4AB6-506F-784D-81DB-6828E98C2ADA.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/ZJetsToQQ_HT-200to400_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/66075566-786F-A745-97CA-A41F54336036.root
-/eos/cms/store/mc/RunIISummer20UL17MiniAODv2/ZJetsToQQ_HT-200to400_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/6B66D188-7597-9A4A-8935-9B1987C22314.root
-/eos/cms/store/mc/RunIISummer20UL17MiniAODv2/ZJetsToQQ_HT-200to400_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/6B874D1B-1B40-F340-A118-C08B5C98DEA9.root
+root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/ZJetsToQQ_HT-200to400_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/6B66D188-7597-9A4A-8935-9B1987C22314.root
+root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/ZJetsToQQ_HT-200to400_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/6B874D1B-1B40-F340-A118-C08B5C98DEA9.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/ZJetsToQQ_HT-200to400_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/6C1E2688-40F2-1849-911B-22BE87184F99.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/ZJetsToQQ_HT-200to400_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/6E090883-E947-C146-9A38-91941C884892.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/ZJetsToQQ_HT-200to400_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/6FBB5075-19F7-D24A-A828-F596DED3B401.root

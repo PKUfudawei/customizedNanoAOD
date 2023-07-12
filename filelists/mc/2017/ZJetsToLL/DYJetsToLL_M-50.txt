@@ -12,7 +12,7 @@ root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/100000/06EFC5D0-4411-8D4D-B99E-0ECA9259E25A.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/100000/073F9D80-CC9D-A647-BB4D-ABE7AE3F93BB.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/100000/08830279-8664-F54A-AD8A-2E72AC4C9946.root
-/eos/cms/store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/100000/0AF04450-57FA-0E49-94CE-1F7B38B963B8.root
+root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/100000/0AF04450-57FA-0E49-94CE-1F7B38B963B8.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/100000/0B3A15C8-51A5-4448-9BD4-0FF60E087E35.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/100000/1376078D-6208-DC49-B831-73AB9288B39C.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/100000/141CAE59-F126-E249-BF40-00A59C0FBBB6.root
@@ -159,7 +159,7 @@ root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/100000/B3CEB4B0-98DA-424A-A50E-14FE60881700.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/100000/B3F5386E-AE82-AE4F-B71B-1391019753E0.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/100000/B6AFD183-639D-D64B-A76F-75A8D92D07DC.root
-/eos/cms/store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/100000/BC48C696-E730-DD42-81BE-69CA6FB61145.root
+root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/100000/BC48C696-E730-DD42-81BE-69CA6FB61145.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/100000/BEE0BE2F-39A6-EF49-A391-E3E1EE70C93D.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/100000/BF2DE3F4-F2E7-7E42-9E86-2C9EABEA98FC.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/100000/C14597ED-2EED-AB46-ADA5-90F5F0BD6573.root
@@ -954,7 +954,7 @@ root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/4929AE63-67E9-6B4C-BEE1-CC06ACB15D45.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/49B1E3CA-A28F-5949-A674-C1829269EF04.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/4A65EA3A-E115-A143-B594-703A79431EBD.root
-/eos/cms/store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/4CB5E4F7-E701-A446-BCE1-30935CCE7100.root
+root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/4CB5E4F7-E701-A446-BCE1-30935CCE7100.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/4CC36F6F-5BFB-8E49-A7C3-ACAF6A3588EF.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/4D0D190F-8026-C142-98D7-C5A789BF8288.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/4D54D145-8EF5-9D4A-8D39-5BCED0087A9F.root
@@ -1065,7 +1065,7 @@ root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/8D837C6D-D9DF-794A-A1A6-BA3FBF0735A1.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/8DD821AF-2D88-E549-A4C9-A31D094616DF.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/8E0CF377-0941-9B49-8810-15BAD5CC389D.root
-/eos/cms/store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/8E1D2DA8-86FC-584E-9DE1-521CBD3146A4.root
+root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/8E1D2DA8-86FC-584E-9DE1-521CBD3146A4.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/8ED46D1B-A356-ED4C-8494-E0F417174EB3.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/8F0AB7B2-34D1-574D-B415-302FB431815A.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/8FD17F1D-0FEF-5745-BA29-63316598B0DD.root
@@ -1109,7 +1109,7 @@ root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/A5A29EDD-48CF-4A4B-90D4-91F638820D6E.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/A600DFE1-E42B-AA47-A153-0CEA0A11EFC4.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/A60DF5F7-CD3B-C246-91D0-65231EB4B993.root
-/eos/cms/store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/A654A94E-F1D5-0744-93E3-4F3F8223C555.root
+root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/A654A94E-F1D5-0744-93E3-4F3F8223C555.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/A6698DF1-A35B-E44B-9E9E-21AF272DCA04.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/A7496955-2B8C-1D45-903F-EE43829F1CE5.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/A808AEA3-A258-504D-A53B-B37C9932136B.root
@@ -1220,7 +1220,7 @@ root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/E1ECC188-1953-4C43-AC09-FB7AC5A3F504.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/E2233F43-5A3E-7E4B-9946-CA5FBA0D0855.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/E225E32A-DC11-954E-AC3F-ED5C3E949E84.root
-/eos/cms/store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/E27184F5-4EDA-814C-B663-6807C4C8FC63.root
+root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/E27184F5-4EDA-814C-B663-6807C4C8FC63.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/E2FD388C-4553-F44B-8D9C-B9343CA0E56A.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/E40719AF-54D3-B749-89C0-1C80DC5983AF.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2430000/E4258B81-3470-FD47-9CAC-CBB371948DF1.root
@@ -1545,7 +1545,7 @@ root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/250000/507A64B7-0E82-4D43-9C35-DC1F1A1A93E3.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/250000/50C68604-6D96-EF43-A9D5-A1C8C1D604E5.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/250000/5162C900-2B71-164F-A0BC-FA22D4AAEDF1.root
-/eos/cms/store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/250000/5190FD9F-1F30-8346-AC94-DB3C49BE1F7C.root
+root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/250000/5190FD9F-1F30-8346-AC94-DB3C49BE1F7C.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/250000/51BB689F-D652-5542-92AB-71E83D1A6A63.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/250000/521D6BD0-04E4-5143-952C-F1A589F2C5C8.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/250000/5242A59A-029F-984C-BCC7-514229CC31BB.root
@@ -2481,7 +2481,7 @@ root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/1EB8D8EE-290B-E14C-91F4-3B3FCF54A159.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/1F4601D9-31D1-724C-A3E5-AE17322BA067.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/201EB721-036A-7643-8362-55686622B5A9.root
-/eos/cms/store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/20F36E46-1065-CA4B-99B9-3BE0F15A576F.root
+root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/20F36E46-1065-CA4B-99B9-3BE0F15A576F.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/24016007-1C41-0F4A-ADF8-ED8E788B6872.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/2446A621-6EA6-2F42-8856-C07296F99572.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/24567C9D-FA05-8642-9D18-AF191C15375D.root
@@ -2505,7 +2505,7 @@ root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/301252F1-F0E3-2C4B-935C-E973186187A4.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/30CED890-8AAA-B640-B2DB-CA86F49D9BBD.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/31202D88-A5D9-0744-95CC-13B3C8A0C193.root
-/eos/cms/store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/313AEAB4-06D8-C740-B68F-D13F33EA3415.root
+root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/313AEAB4-06D8-C740-B68F-D13F33EA3415.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/316FB0E8-C6DD-8748-AD8A-458822819D78.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/31ABA9FD-7A38-9541-8DFA-F08797DC4F92.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/31C3EACD-824D-944A-B15F-5C224164391B.root
@@ -2706,7 +2706,7 @@ root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/CB97AB65-C2DC-D246-BF15-634E9AF56DB0.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/CBC572BA-4DF0-2D43-91FB-A28DD5E4BA30.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/CBCE81FF-8F1E-9544-85D1-E9929E26B2FB.root
-/eos/cms/store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/CC0C5ACD-4228-D04E-8719-3794DB161C38.root
+root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/CC0C5ACD-4228-D04E-8719-3794DB161C38.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/CCDB1676-5775-A944-A635-A5F9AECA21AE.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/CDD832BB-EA23-5145-B082-B669F5715D86.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/CE3B5887-0D48-2D44-AA82-18E3941676F7.root
@@ -2755,7 +2755,7 @@ root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/F13B7DE2-D582-124C-9705-D51BB0EF3856.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/F3A0D414-93DE-084A-AB8C-CBF4493B6634.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/F3BE218B-FD62-334F-81A7-E0F303FCDC4A.root
-/eos/cms/store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/F4691C46-9CA8-084A-8AB0-560E8D822E27.root
+root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/F4691C46-9CA8-084A-8AB0-560E8D822E27.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/F4F5E6D6-AB39-884C-89D2-54D5B55AC9C4.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/F859DCF9-4B06-F344-A377-0C62AE34E1D8.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/2510000/F9934113-DA9E-6449-83CD-74BF3C038A65.root
@@ -3179,7 +3179,7 @@ root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/83E066D5-009B-7B48-A5A0-D634EAB5ABBD.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/83F445EE-3168-A043-8A51-C3DE87999132.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/8409D0F4-9C5A-4442-8583-B686FD94E13D.root
-/eos/cms/store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/85021A90-03E8-4042-A7FF-6EA02670EEB8.root
+root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/85021A90-03E8-4042-A7FF-6EA02670EEB8.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/85142B83-EF4D-3F4A-9EC2-156B28ECBD2F.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/85750540-C8D8-DD4E-A1DC-8054A253EA27.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/859E7988-EF35-CD47-BE50-76B89963063A.root
@@ -3228,7 +3228,7 @@ root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/9177C766-4772-CA4C-B71E-C64EED08B2E2.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/91F8F65E-038E-5346-9B32-9CA077E37E64.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/928311F0-837D-9D48-9FA8-50F0F6E54586.root
-/eos/cms/store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/9325AD19-D8E0-E946-AE14-BD776BF9BCFF.root
+root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/9325AD19-D8E0-E946-AE14-BD776BF9BCFF.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/94163CFC-7402-4C47-9382-F262457826FD.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/944820F1-9982-BF4F-A8A3-18E546628F98.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/9466DB65-650C-B243-AEB7-4B6B33E6F6C3.root
@@ -3385,7 +3385,7 @@ root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/C9B22F3B-D116-E446-AC95-514E2DB2115F.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/CA6713C9-37D5-F14F-9BC1-C5513E61DE84.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/CAB81D2D-55CB-7043-8C79-760ED998B8B5.root
-/eos/cms/store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/CAE15DEB-79A4-A845-9186-D550E150D19D.root
+root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/CAE15DEB-79A4-A845-9186-D550E150D19D.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/CB177E62-E4F2-944A-A1EE-BB92E91CFF7B.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/CB1EB72D-7D93-A045-8C76-DCEB5458FDEA.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/CB4AC61C-7640-0F42-B1C7-8358599B760E.root
@@ -3498,7 +3498,7 @@ root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/ECC2A09B-6E1F-1C4B-9FA3-FC1B60341351.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/ECEE8B29-F61C-BD4A-B976-A5712F7875D7.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/ED1B03D0-0C2D-DE41-904E-76AC3F61D7B8.root
-/eos/cms/store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/ED205C21-6FC0-4B49-9061-98304CFCCA19.root
+root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/ED205C21-6FC0-4B49-9061-98304CFCCA19.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/ED255CBD-39F8-5542-96F6-5B83D11BC9C0.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/ED64F49F-1AC9-CE4B-B4A6-E6FE60D2DF77.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v2/40000/EDF3DE35-8CCB-7245-9DE8-C060CFB9D90F.root

@@ -104,7 +104,7 @@ root://cms-xrd-global.cern.ch//store/data/Run2017B/SinglePhoton/MINIAOD/UL2017_M
 root://cms-xrd-global.cern.ch//store/data/Run2017B/SinglePhoton/MINIAOD/UL2017_MiniAODv2-v1/280000/0C8ABC5A-4AB2-2144-AB80-84ADF087400A.root
 root://cms-xrd-global.cern.ch//store/data/Run2017B/SinglePhoton/MINIAOD/UL2017_MiniAODv2-v1/280000/0E3892B6-521A-B144-B460-D8D459FF5BFC.root
 root://cms-xrd-global.cern.ch//store/data/Run2017B/SinglePhoton/MINIAOD/UL2017_MiniAODv2-v1/280000/190C86F1-0B6F-824D-8889-9598D728F03A.root
-/eos/cms/store/data/Run2017B/SinglePhoton/MINIAOD/UL2017_MiniAODv2-v1/280000/23B5AA19-29FA-D940-9F4E-989EDED187DC.root
+root://cms-xrd-global.cern.ch//store/data/Run2017B/SinglePhoton/MINIAOD/UL2017_MiniAODv2-v1/280000/23B5AA19-29FA-D940-9F4E-989EDED187DC.root
 root://cms-xrd-global.cern.ch//store/data/Run2017B/SinglePhoton/MINIAOD/UL2017_MiniAODv2-v1/280000/2B6C1D8B-C454-A94E-AB85-BAE49170A320.root
 root://cms-xrd-global.cern.ch//store/data/Run2017B/SinglePhoton/MINIAOD/UL2017_MiniAODv2-v1/280000/2D8E92CE-EA71-4C4B-86A0-D992D7BFD5FE.root
 root://cms-xrd-global.cern.ch//store/data/Run2017B/SinglePhoton/MINIAOD/UL2017_MiniAODv2-v1/280000/30B27E1A-6372-CD4E-93C0-9DEB59A2097F.root
@@ -132,7 +132,7 @@ root://cms-xrd-global.cern.ch//store/data/Run2017B/SinglePhoton/MINIAOD/UL2017_M
 root://cms-xrd-global.cern.ch//store/data/Run2017B/SinglePhoton/MINIAOD/UL2017_MiniAODv2-v1/280000/8608C66D-0108-BF41-969A-30F63D5E257B.root
 root://cms-xrd-global.cern.ch//store/data/Run2017B/SinglePhoton/MINIAOD/UL2017_MiniAODv2-v1/280000/89ECE7D4-CA77-AF4B-BAA9-2DDC0F848AA9.root
 root://cms-xrd-global.cern.ch//store/data/Run2017B/SinglePhoton/MINIAOD/UL2017_MiniAODv2-v1/280000/8F12A804-153A-E94D-91EA-10B8DA2DF34C.root
-/eos/cms/store/data/Run2017B/SinglePhoton/MINIAOD/UL2017_MiniAODv2-v1/280000/923EF3A7-3C34-F840-A47D-EA808A4D1A72.root
+root://cms-xrd-global.cern.ch//store/data/Run2017B/SinglePhoton/MINIAOD/UL2017_MiniAODv2-v1/280000/923EF3A7-3C34-F840-A47D-EA808A4D1A72.root
 root://cms-xrd-global.cern.ch//store/data/Run2017B/SinglePhoton/MINIAOD/UL2017_MiniAODv2-v1/280000/9FCE1032-BB5C-3440-B559-468C809EE7F2.root
 root://cms-xrd-global.cern.ch//store/data/Run2017B/SinglePhoton/MINIAOD/UL2017_MiniAODv2-v1/280000/A0C0DE7C-8CD0-2D48-A804-48229A1F60CF.root
 root://cms-xrd-global.cern.ch//store/data/Run2017B/SinglePhoton/MINIAOD/UL2017_MiniAODv2-v1/280000/A0C1BB43-EEB1-8E41-B537-E609ADFD3138.root

@@ -10,7 +10,7 @@ root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/QCD_HT300to50
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/QCD_HT300to500_TuneCP5_PSWeights_13TeV-madgraph-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/2520000/3736BD3F-BFE6-3041-9FF4-BE39F3FBD002.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/QCD_HT300to500_TuneCP5_PSWeights_13TeV-madgraph-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/2520000/3E840FC3-7097-AD40-BE8C-63C5A375C9AE.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/QCD_HT300to500_TuneCP5_PSWeights_13TeV-madgraph-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/2520000/4AEBD7C1-19EA-3C46-AEF1-A8FF2502F6AE.root
-/eos/cms/store/mc/RunIISummer20UL17MiniAODv2/QCD_HT300to500_TuneCP5_PSWeights_13TeV-madgraph-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/2520000/548FE0A1-2638-9F4C-A565-71800F7BE913.root
+root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/QCD_HT300to500_TuneCP5_PSWeights_13TeV-madgraph-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/2520000/548FE0A1-2638-9F4C-A565-71800F7BE913.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/QCD_HT300to500_TuneCP5_PSWeights_13TeV-madgraph-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/2520000/5594B37B-7594-8E43-AC76-FD931B9270A6.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/QCD_HT300to500_TuneCP5_PSWeights_13TeV-madgraph-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/2520000/55D7E711-B3BD-7946-87C0-F3133D8D4FED.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/QCD_HT300to500_TuneCP5_PSWeights_13TeV-madgraph-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/2520000/6001BDA8-6A69-6141-98A1-764805D58369.root
@@ -129,7 +129,7 @@ root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/QCD_HT300to50
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/QCD_HT300to500_TuneCP5_PSWeights_13TeV-madgraph-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/260000/0717A550-07B3-A24F-806D-A81D6A53DE50.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/QCD_HT300to500_TuneCP5_PSWeights_13TeV-madgraph-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/260000/0748AA77-FEFD-F049-8A20-5DC0609DB307.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/QCD_HT300to500_TuneCP5_PSWeights_13TeV-madgraph-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/260000/094D5C83-E2DC-AE49-98DD-0B9CDE0F21F6.root
-/eos/cms/store/mc/RunIISummer20UL17MiniAODv2/QCD_HT300to500_TuneCP5_PSWeights_13TeV-madgraph-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/260000/09BE3A09-9CC1-C743-9293-9E9C23331814.root
+root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/QCD_HT300to500_TuneCP5_PSWeights_13TeV-madgraph-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/260000/09BE3A09-9CC1-C743-9293-9E9C23331814.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/QCD_HT300to500_TuneCP5_PSWeights_13TeV-madgraph-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/260000/09F45319-B418-9B4F-AA72-D6F7B4BD9AE9.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/QCD_HT300to500_TuneCP5_PSWeights_13TeV-madgraph-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/260000/0AFA8F91-C979-3A4B-B685-24A59A1F55CB.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/QCD_HT300to500_TuneCP5_PSWeights_13TeV-madgraph-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/260000/0B927079-B12F-C64B-ABE2-69643B1E4625.root
@@ -385,7 +385,7 @@ root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/QCD_HT300to50
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/QCD_HT300to500_TuneCP5_PSWeights_13TeV-madgraph-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/260000/D8DB0E9F-1EC8-D844-9DEE-FA58AF10DC6B.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/QCD_HT300to500_TuneCP5_PSWeights_13TeV-madgraph-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/260000/DC77C5C7-FDCC-B449-826E-A1D0D15CE5ED.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/QCD_HT300to500_TuneCP5_PSWeights_13TeV-madgraph-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/260000/DD4F06E6-371D-334D-AF12-06D1B84A8897.root
-/eos/cms/store/mc/RunIISummer20UL17MiniAODv2/QCD_HT300to500_TuneCP5_PSWeights_13TeV-madgraph-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/260000/DE25B13F-00A4-F14C-9CF3-700FDF2076CB.root
+root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/QCD_HT300to500_TuneCP5_PSWeights_13TeV-madgraph-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/260000/DE25B13F-00A4-F14C-9CF3-700FDF2076CB.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/QCD_HT300to500_TuneCP5_PSWeights_13TeV-madgraph-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/260000/DE512533-2802-FC47-9C61-1381458A4A7A.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/QCD_HT300to500_TuneCP5_PSWeights_13TeV-madgraph-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/260000/DF175237-C4F3-DC4B-88ED-615C2904821F.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/QCD_HT300to500_TuneCP5_PSWeights_13TeV-madgraph-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/260000/DF96AA93-8B53-9D49-AEA1-045B8D25B40C.root

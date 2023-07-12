@@ -9,7 +9,7 @@ import subprocess
 
 def parse_commandline():
     parser = argparse.ArgumentParser(description='Parse dataset to filelists and condor job-submit files')
-    parser.add_argument('-d', '--directory', help='To specify base directory', default=os.path.abspath('../datasets'))
+    parser.add_argument('-d', '--directory', help='To specify base directory', default=os.path.abspath('./datasets'))
     parser.add_argument('-o', '--outdir', help='Which directory to stroe output', default='./')
     parser.add_argument('-t', '--type', help='To specify jobs in mc/ or data/', choices=('data', 'mc', '*'), default='*')
     parser.add_argument('-y', '--year', help='To specify jobs in which year', choices=('2018', '2017', '2016pre', '2016post'), default='*')
@@ -39,10 +39,9 @@ def dataset_to_filelist(card_path: str, args: argparse.Namespace):
         query = f"\"file dataset={v} system=rucio\""
         output = json.loads(subprocess.check_output(f"/cvmfs/cms.cern.ch/common/dasgoclient -query={query} -json", shell=True, encoding='utf-8'))
         for file_info in output:
-            if os.path.exists('/eos/cms' + file_info['file'][0]['name']):
-                filelist.append('/eos/cms' + file_info['file'][0]['name'])
-            else:
-                filelist.append('root://cms-xrd-global.cern.ch/' + file_info['file'][0]['name'])
+            #if os.path.exists('/eos/cms' + file_info['file'][0]['name']):
+                #filelist.append('/eos/cms' + file_info['file'][0]['name'])
+            filelist.append('root://cms-xrd-global.cern.ch/' + file_info['file'][0]['name'])
 
         if not os.path.exists(f'./filelists/{name}'):
             os.makedirs(f'./filelists/{name}')

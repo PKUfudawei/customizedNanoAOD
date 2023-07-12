@@ -33,7 +33,7 @@ root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/ZJetsToNuNu_H
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/ZJetsToNuNu_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/110000/20BC2C4C-2C92-044D-8A34-851174A9F568.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/ZJetsToNuNu_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/110000/21D23DC0-E776-CC48-B139-2A6A90C35FE3.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/ZJetsToNuNu_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/110000/2236D6E9-A32A-914F-AC52-4A2C67F03FED.root
-/eos/cms/store/mc/RunIISummer20UL17MiniAODv2/ZJetsToNuNu_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/110000/22C46F0D-F8E5-A143-B0ED-62A3319782F2.root
+root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/ZJetsToNuNu_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/110000/22C46F0D-F8E5-A143-B0ED-62A3319782F2.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/ZJetsToNuNu_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/110000/235585CF-D299-EA47-A1BF-7B5A81A6B311.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/ZJetsToNuNu_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/110000/2A3F01F1-B6F1-FE4B-A68F-BD5C2375CE56.root
 root://cms-xrd-global.cern.ch//store/mc/RunIISummer20UL17MiniAODv2/ZJetsToNuNu_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/MINIAODSIM/106X_mc2017_realistic_v9-v1/110000/2B8936FB-0600-D74D-A09E-4DE50E5A1FF7.root
