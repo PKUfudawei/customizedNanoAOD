@@ -20,9 +20,6 @@ def main():
     os.system("which condor_submit")
     input("====> Are you ready to submit condor jobs?")
 
-    #for jdl in glob.glob("./submit/{args.type}/{args.year}/{args.channel}/{args.job}.submit"):
-    #    print(jdl)
-    #    os.system(f"condor_submit {jdl}")
     os.system(f"""
         for jdl in submit/{args.type}/{args.year}/{args.channel}/{args.job}.submit
             do condor_submit $jdl
