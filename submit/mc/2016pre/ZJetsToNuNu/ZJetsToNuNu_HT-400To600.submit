@@ -6,7 +6,7 @@ Universe = vanilla
 
 # Jobs which exceed the maximum runtime will be terminated
 ## 'testmatch' = 3 days
-+JobFlavour = "testmatch"
++JobFlavour = "nextweek"
 JobBatchName = mc/2016pre/ZJetsToNuNu/ZJetsToNuNu_HT-400To600
 
 # EXECUTABLE is the program your job will run It's often useful 

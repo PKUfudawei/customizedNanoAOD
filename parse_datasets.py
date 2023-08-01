@@ -39,8 +39,8 @@ def dataset_to_filelist(card_path: str, args: argparse.Namespace):
         query = f"\"file dataset={v} system=rucio\""
         output = json.loads(subprocess.check_output(f"/cvmfs/cms.cern.ch/common/dasgoclient -query={query} -json", shell=True, encoding='utf-8'))
         for file_info in output:
-            #if os.path.exists('/eos/cms' + file_info['file'][0]['name']):
-                #filelist.append('/eos/cms' + file_info['file'][0]['name'])
+            # if os.path.exists('/eos/cms' + file_info['file'][0]['name']):
+            #    filelist.append('/eos/cms' + file_info['file'][0]['name'])
             filelist.append('root://cms-xrd-global.cern.ch/' + file_info['file'][0]['name'])
 
         if not os.path.exists(f'./filelists/{name}'):
