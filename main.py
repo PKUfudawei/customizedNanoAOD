@@ -28,13 +28,12 @@ def produce_custom_nanoaod(file: str, year: str, sample_type: str, outdir: str):
     }
     outfile = os.path.join(outdir, 'custom_nano.root')
     
-    os.system("source /cvmfs/cms.cern.ch/cmsset_default.sh")
-    
     if file.startswith('root://'):
-        os.system(f"xrdcp {file} .")
+        os.system(f"source /cvmfs/cms.cern.ch/cmsset_default.sh; xrdcp {file} .")
         file = os.path.join('$HOME', file.split('/')[-1])
     
     os.system(rf"""
+    source /cvmfs/cms.cern.ch/cmsset_default.sh
     export HOME=`pwd`; export SCRAM_ARCH=slc7_amd64_gcc700
     rm -rf CMSSW_10_6_30/; cmsrel CMSSW_10_6_30; cd CMSSW_10_6_30/src; eval `scram runtime -sh`; cmsenv
     git clone https://github.com/gqlcms/Customized_NanoAOD.git .
