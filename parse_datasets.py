@@ -16,7 +16,7 @@ def parse_commandline():
     parser.add_argument('-c', '--channel', help='To specify jobs in which channel', default='*')
     parser.add_argument('-v', '--version', help='To specify jobs in which nanoAOD version', default='*')
     parser.add_argument('-f', '--generate_filelists', help='To determine whether to generate filelists', choices=('True', 'False'), default='True')
-    parser.add_argument('-M', '--MiniAOD', help='To determine whether to generate MiniAOD filelists', choices=('True', 'False'), default='False')
+    parser.add_argument('-M', '--MiniAOD', help='To determine whether to generate MiniAOD filelists', choices=('True', 'False'), default='True')
     args = parser.parse_args()
     return args
 

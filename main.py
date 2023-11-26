@@ -4,7 +4,7 @@ import os, sys, argparse
 
 def parse_commandline():
     parser = argparse.ArgumentParser(description='Script to generate customized NanoAOD')
-    parser.add_argument('-f', '--file', help='To specify file path', default=None)
+    parser.add_argument('-f', '--file', help='To specify file path')
     parser.add_argument('-o', '--outdir', help='To specify output directory', default='$HOME')
     parser.add_argument('-y', '--year', help='To specify which year', choices=('2016pre', '2016post', '2017', '2018'))
     parser.add_argument('-t', '--type', help='To specify which sample type', choices=('mc', 'data'))
@@ -27,8 +27,14 @@ def produce_custom_nanoaod(file: str, year: str, sample_type: str, outdir: str):
         'data_2018': '106X_dataRun2_v32',
     }
     outfile = os.path.join(outdir, 'custom_nano.root')
+    
+    os.system("source /cvmfs/cms.cern.ch/cmsset_default.sh")
+    
+    if file.startswith('root://'):
+        os.system(f"xrdcp {file} .")
+        file = os.path.join('$HOME', file.split('/')[-1])
+    
     os.system(rf"""
-    source /cvmfs/cms.cern.ch/cmsset_default.sh
     export HOME=`pwd`; export SCRAM_ARCH=slc7_amd64_gcc700
     rm -rf CMSSW_10_6_30/; cmsrel CMSSW_10_6_30; cd CMSSW_10_6_30/src; eval `scram runtime -sh`; cmsenv
     git clone https://github.com/gqlcms/Customized_NanoAOD.git .
@@ -45,7 +51,7 @@ def produce_custom_nanoaod(file: str, year: str, sample_type: str, outdir: str):
 
 def main():
     if len(sys.argv) < 3:
-        raise ValueError('miniAODToCustomNanoAOD.py needs two necessary arguments as file, year and type by -f, -y and -t respectively')
+        raise ValueError('miniAODToCustomNanoAOD.py needs three necessary arguments as file, year and type by -f, -y and -t respectively')
     args = parse_commandline()
     produce_custom_nanoaod(file=args.file, year=args.year, sample_type=args.type, outdir=args.outdir)
 
