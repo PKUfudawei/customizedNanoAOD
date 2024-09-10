@@ -16,9 +16,9 @@ def produce_custom_nanoaod(file: str, year: str, sample_type: str, outdir: str):
     mode = f'{sample_type}_{year}'
     filetype = 'NANOAODSIM' if sample_type == 'mc' else 'NANOAOD'
     MODE = 'MC' if sample_type == 'mc' else 'Data'
-    condition = {
-        'mc_2016pre': '106X_mcRun2_asymptotic_preVFP_v8',
-        'mc_2016post': '106X_mcRun2_asymptotic_v13',
+    condition = {  # https://twiki.cern.ch/twiki/bin/view/CMSPublic/GTsAfter2019
+        'mc_2016pre': '106X_mcRun2_asymptotic_preVFP_v11',
+        'mc_2016post': '106X_mcRun2_asymptotic_v17',
         'mc_2017': '106X_mc2017_realistic_v9',
         'mc_2018': '106X_upgrade2018_realistic_v16_L1v1',
         'data_2016pre': '106X_dataRun2_v37',
