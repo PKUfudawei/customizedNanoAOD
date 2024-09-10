@@ -17,14 +17,14 @@ def produce_custom_nanoaod(file: str, year: str, sample_type: str, outdir: str):
     filetype = 'NANOAODSIM' if sample_type == 'mc' else 'NANOAOD'
     MODE = 'MC' if sample_type == 'mc' else 'Data'
     condition = {
-        'mc_2016pre': '106X_mcRun2_asymptotic_preVFP_v9',
-        'mc_2016post': '106X_mcRun2_asymptotic_v15',
-        'mc_2017': '106X_mc2017_realistic_v8',
-        'mc_2018': '106X_upgrade2018_realistic_v15_L1v1',
-        'data_2016pre': '106X_dataRun2_v32',
-        'data_2016post': '106X_dataRun2_v32',
-        'data_2017': '106X_dataRun2_v32',
-        'data_2018': '106X_dataRun2_v32',
+        'mc_2016pre': '106X_mcRun2_asymptotic_preVFP_v8',
+        'mc_2016post': '106X_mcRun2_asymptotic_v13',
+        'mc_2017': '106X_mc2017_realistic_v9',
+        'mc_2018': '106X_upgrade2018_realistic_v16_L1v1',
+        'data_2016pre': '106X_dataRun2_v37',
+        'data_2016post': '106X_dataRun2_v37',
+        'data_2017': '106X_dataRun2_v37',
+        'data_2018': '106X_dataRun2_v37',
     }
     outfile = os.path.join(outdir, 'custom_nano.root')
     os.system(rf"""
@@ -34,7 +34,7 @@ def produce_custom_nanoaod(file: str, year: str, sample_type: str, outdir: str):
     git clone https://github.com/colizz/NanoTuples.git PhysicsTools/NanoTuples -b dev-part-UL
     ./PhysicsTools/NanoTuples/scripts/install_onnxruntime.sh
     wget https://coli.web.cern.ch/coli/tmp/.240120-181907_ak8_stage2/model.onnx -O $CMSSW_BASE/src/PhysicsTools/NanoTuples/data/InclParticleTransformer-MD/ak8/V02/model.onnx
-    scram b clean && scram b -j4
+    scram b clean && scram b -j4; cd ~
 
     cmsDriver.py {mode} -n -1 --{sample_type} --eventcontent {filetype} --datatier {filetype} \
         --conditions {condition[mode]} --step NANO --nThreads 1 --era Run2_{year[:4]},run2_nanoAOD_106Xv2 \
@@ -49,7 +49,8 @@ def main():
     if len(sys.argv) < 3:
         raise ValueError('miniAODToCustomNanoAOD.py needs two necessary arguments as file, year and type by -f, -y and -t respectively')
     args = parse_commandline()
-    produce_custom_nanoaod(file=args.file, year=args.year, sample_type=args.type, outdir=args.outdir)
+    file = args.file.split('/')[-1]
+    produce_custom_nanoaod(file=file, year=args.year, sample_type=args.type, outdir=args.outdir)
 
 
 if __name__ == "__main__":
