@@ -30,12 +30,14 @@ def produce_custom_nanoaod(file: str, year: str, sample_type: str, outdir: str):
     os.system(rf"""
     source /cvmfs/cms.cern.ch/cmsset_default.sh
     export HOME=`pwd`; export SCRAM_ARCH=slc7_amd64_gcc700
-    rm -rf CMSSW_10_6_30/; cmsrel CMSSW_10_6_30; cd CMSSW_10_6_30/src; eval `scram runtime -sh`; cmsenv
-    git clone https://github.com/gqlcms/Customized_NanoAOD.git .
-    ./PhysicsTools/NanoTuples/scripts/install_onnxruntime.sh; scram b -j 16
+    rm -rf CMSSW_10_6_31; scram p CMSSW CMSSW_10_6_31; cd CMSSW_10_6_31/src; eval `scram runtime -sh`; cmsenv
+    git clone https://github.com/colizz/NanoTuples.git PhysicsTools/NanoTuples -b dev-part-UL
+    ./PhysicsTools/NanoTuples/scripts/install_onnxruntime.sh
+    wget https://coli.web.cern.ch/coli/tmp/.240120-181907_ak8_stage2/model.onnx -O $CMSSW_BASE/src/PhysicsTools/NanoTuples/data/InclParticleTransformer-MD/ak8/V02/model.onnx
+    scram b clean && scram b -j4
 
     cmsDriver.py {mode} -n -1 --{sample_type} --eventcontent {filetype} --datatier {filetype} \
-        --conditions {condition[mode]} --step NANO --nThreads 1 --era Run2_{year[:4]},run2_nanoAOD_106Xv1 \
+        --conditions {condition[mode]} --step NANO --nThreads 1 --era Run2_{year[:4]},run2_nanoAOD_106Xv2 \
         --customise PhysicsTools/NanoTuples/nanoTuples_cff.nanoTuples_customize{MODE} \
         --filein file:{file} --fileout file:{outfile} --no_exec;
 
