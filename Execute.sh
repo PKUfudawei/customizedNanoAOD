@@ -1,8 +1,6 @@
 #!/bin/bash
 export HOME=`pwd`
-export PATH=$HOME/.local/bin:$PATH
-echo "===> Home Directory:"
-echo $HOME
+echo "===> Home Directory:"; echo $HOME
 
 ## download root file
 xrdcp $1 .

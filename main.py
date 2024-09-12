@@ -6,8 +6,7 @@ def parse_commandline():
     parser = argparse.ArgumentParser(description='Script to generate customized NanoAOD')
     parser.add_argument('-f', '--file', help='To specify file path', default=None)
     parser.add_argument('-o', '--outdir', help='To specify output directory', default='$HOME')
-    parser.add_argument('-y', '--year', help='To specify which year', choices=('2016pre', '2016post', '2017', '2018'))
-    parser.add_argument('-t', '--type', help='To specify which sample type', choices=('mc', 'data'))
+    parser.add_argument('-m', '--mode', help='To specify $type_$year_$channel mode', default='mc_2018_ZpToHG')
     args = parser.parse_args()
     return args
 
@@ -50,7 +49,8 @@ def main():
         raise ValueError('miniAODToCustomNanoAOD.py needs two necessary arguments as file, year and type by -f, -y and -t respectively')
     args = parse_commandline()
     file = args.file.split('/')[-1]
-    produce_custom_nanoaod(file=file, year=args.year, sample_type=args.type, outdir=args.outdir)
+    sample_type, year, channel = args.mode.split('_')
+    produce_custom_nanoaod(file=file, year=year, sample_type=sample_type, outdir=args.outdir)
 
 
 if __name__ == "__main__":
