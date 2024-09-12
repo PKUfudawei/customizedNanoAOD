@@ -2,9 +2,6 @@
 export HOME=`pwd`
 echo "===> Home Directory:"; echo $HOME
 
-## download root file
-xrdcp $1 .
-
 ## print environment information
 echo "===> Python3 information: "; which python3; which pip3
 printf "===> Start time: "; /bin/date

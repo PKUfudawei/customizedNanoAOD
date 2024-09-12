@@ -11,7 +11,7 @@ def parse_commandline():
     return args
 
 
-def produce_custom_nanoaod(file: str, year: str, sample_type: str, outdir: str):
+def produce_custom_nanoaod(file: str, year: str, sample_type: str, outdir: str='./'):
     mode = f'{sample_type}_{year}'
     filetype = 'NANOAODSIM' if sample_type == 'mc' else 'NANOAOD'
     MODE = 'MC' if sample_type == 'mc' else 'Data'
@@ -46,9 +46,12 @@ def produce_custom_nanoaod(file: str, year: str, sample_type: str, outdir: str):
 
 def main():
     if len(sys.argv) < 3:
-        raise ValueError('miniAODToCustomNanoAOD.py needs two necessary arguments as file, year and type by -f, -y and -t respectively')
+        raise ValueError('produce_custom_nanoaod() needs two necessary arguments as file, year and type by -f, -y and -t respectively')
     args = parse_commandline()
-    file = args.file.split('/')[-1]
+    file = args.file
+    if file.startswith('root://'):
+        os.system(f"xrdcp {file} .")
+        file = file.split('/')[-1]
     sample_type, year, channel = args.mode.split('_')
     produce_custom_nanoaod(file=file, year=year, sample_type=sample_type, outdir=args.outdir)
 
