@@ -40,7 +40,7 @@ def produce_custom_nanoaod(file: str, year: str, sample_type: str, outdir: str='
         --customise PhysicsTools/NanoTuples/nanoTuples_cff.nanoTuples_customize{MODE} \
         --filein file:{file} --fileout file:{outfile} --no_exec;
 
-    cmsRun {mode}_NANO.py > /dev/null
+    exec >/dev/null 2>&1; cmsRun {mode}_NANO.py
     """)
     
 
