@@ -6,7 +6,7 @@ def parse_commandline():
     parser = argparse.ArgumentParser(description='Script to generate customized NanoAOD')
     parser.add_argument('-f', '--file', help='To specify file path', default=None)
     parser.add_argument('-o', '--outdir', help='To specify output directory', default='$HOME')
-    parser.add_argument('-m', '--mode', help='To specify $type_$year_$channel mode', default='mc_2018_ZpToHG')
+    parser.add_argument('-m', '--mode', help='To specify $type/$year/$channel/$job mode')
     args = parser.parse_args()
     return args
 
@@ -45,14 +45,12 @@ def produce_custom_nanoaod(file: str, year: str, sample_type: str, outdir: str='
     
 
 def main():
-    if len(sys.argv) < 3:
-        raise ValueError('produce_custom_nanoaod() needs two necessary arguments as file, year and type by -f, -y and -t respectively')
     args = parse_commandline()
     file = args.file
     if file.startswith('root://'):
         os.system(f"xrdcp {file} .")
         file = file.split('/')[-1]
-    sample_type, year, channel = args.mode.split('_')
+    sample_type, year, channel, _ = args.mode.split('/')
     produce_custom_nanoaod(file=file, year=year, sample_type=sample_type, outdir=args.outdir)
 
 
