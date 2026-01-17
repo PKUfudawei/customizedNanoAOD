@@ -47,9 +47,9 @@ def produce_custom_nanoaod(file: str, year: str, sample_type: str, outdir: str='
 def main():
     args = parse_commandline()
     file = args.file
-    #if file.startswith('root://'):
-        #os.system(f"xrdcp {file} .")
-        #file = file.split('/')[-1]
+    if file.startswith('root://'):
+        os.system(f"xrdcp {file} .")
+        file = file.split('/')[-1]
     sample_type, year, channel, _ = args.mode.split('/')
     produce_custom_nanoaod(file=file, year=year, sample_type=sample_type, outdir=args.outdir)
 
